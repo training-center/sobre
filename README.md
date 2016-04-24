@@ -4,7 +4,7 @@ Informações gerais sobre o Centro de Treinamento (CT)
 
 # Centro de treinamento
 
-Um projeto **sem fins lucrativos** com intenção de ajudar quem precisa aprender alguma tecnolgia, tem dúvidas sobre carreira ou quer fazer bons amigos para criarem um projeto juntos!
+Um projeto **sem fins lucrativos** com intenção de ajudar quem precisa aprender alguma tecnologia, tem dúvidas sobre carreira ou quer fazer bons amigos para criarem um projeto juntos!
 
 Um local para treinar suas habilidades com outros desenvolvedores da comunidade.
 
@@ -25,3 +25,5 @@ Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais exp
 Todo conhecimento deveria ser compartilhado.
 
 Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
+
+
