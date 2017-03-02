@@ -18,7 +18,7 @@ Se você quer formar um grupo para estudar alguma tecnologia, da uma olhada [nes
 
 **Mentoria**
 
-Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais experiênte, para isso temos o projeto [Mentoria](https://github.com/training-center/mentoria).
+Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais experiente, para isso temos o projeto [Mentoria](https://github.com/training-center/mentoria).
 
 ---
 
