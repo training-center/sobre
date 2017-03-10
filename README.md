@@ -26,12 +26,6 @@ Se você quer formar um grupo para estudar alguma tecnologia, da uma olhada [nes
 
 Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais experiente, para isso temos o projeto [Mentoria](https://github.com/training-center/mentoria).
 
----
-
-Todo conhecimento deveria ser compartilhado.
-
-Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
-
 ## Quem apoia o CT
 
 Apoiadores do projeto:
@@ -68,3 +62,9 @@ Também temos o cupom de desconto **CTSHORTCUT** que garante 15% no Curso de Org
     <img src="/img/csshortcut-banner.jpg" alt="Imagem do Curso CSShortcut do Afonso Pacifer">
   </a>
 </p>
+
+---
+
+Todo conhecimento deveria ser compartilhado.
+
+Devemos aprender, praticar e ensinar. Esse é o ciclo para aprendermos sempre mais.
