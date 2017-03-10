@@ -1,6 +1,6 @@
-# Sobre o CT <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+# Sobre o Training Center <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
-Informações gerais sobre o Centro de Treinamento (CT)
+Informações gerais sobre o Training Center (CT para nós, brasileiros)
 
 <ul>
   <li><a href="https://ctgroups.herokuapp.com/" target="_blank">Entre no nosso grupo no Slack</a></li>
@@ -8,13 +8,15 @@ Informações gerais sobre o Centro de Treinamento (CT)
   <li><a href="https://medium.com/trainingcenter" target="_blank">Leia nossos artigos no Medium</a></li>
 </ul>
 
-# Centro de treinamento
+# Training Center
 
 Um projeto **sem fins lucrativos** com intenção de ajudar quem precisa aprender alguma tecnologia, tem dúvidas sobre carreira ou quer fazer bons amigos para criarem um projeto juntos!
 
 Um local para treinar suas habilidades com outros desenvolvedores da comunidade.
 
 Aqui podemos fazer qualquer coisa e todos podem participar.
+
+Conheça mais sobre o Training Center [nesse link](https://medium.com/trainingcenter/hello-world-conhe%C3%A7a-o-centro-de-treinamento-4a47a1230b0c#.t967t9x6c)
 
 ## Iniciativas do CT
 
