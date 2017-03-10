@@ -28,6 +28,8 @@ Se você quer formar um grupo para estudar alguma tecnologia, da uma olhada [nes
 
 Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais experiente, para isso temos o projeto [Mentoria](https://github.com/training-center/mentoria).
 
+Conheça mais sobre as iniciativas do Training Center [nesse link](https://medium.com/trainingcenter/iniciativas-do-centro-de-treinamento-271944071775#.449szqhb8)
+
 ## Quem apoia o CT
 
 Apoiadores do projeto:
