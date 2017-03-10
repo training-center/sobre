@@ -18,7 +18,7 @@ Aqui podemos fazer qualquer coisa e todos podem participar.
 
 Conheça mais sobre o Training Center [nesse link](https://medium.com/trainingcenter/hello-world-conhe%C3%A7a-o-centro-de-treinamento-4a47a1230b0c#.t967t9x6c)
 
-## Iniciativas do CT
+## Iniciativas do Training Center
 
 **Grupos de estudos**
 
@@ -30,7 +30,7 @@ Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais exp
 
 Conheça mais sobre as iniciativas do Training Center [nesse link](https://medium.com/trainingcenter/iniciativas-do-centro-de-treinamento-271944071775#.449szqhb8)
 
-## Quem apoia o CT
+## Quem apoia o Training Center
 
 Apoiadores do projeto:
 
