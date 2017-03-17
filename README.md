@@ -47,7 +47,7 @@ Nós temos o cupom de desconto **CTNINJA** que garante 15% no Curso Java Script 
 
 <p align="center">
   <a href="http://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
-    <img src="/img/js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
+    <img src="/img/banners/banner_js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
   </a>
 </p>
 
@@ -55,7 +55,7 @@ O cupom **CTJSTDD** garante **50%** de desconto no Curso JavaScript com TDD na p
 
 <p align="center">
   <a href="http://bit.ly/js-tdd-ct" title="Curso JavaScript com TDD na prática">
-    <img src="/img/js-tdd.png" alt="Imagem do Curso JavaScript com TDD na prática">
+    <img src="/img/banners/banner_js-tdd.png" alt="Imagem do Curso JavaScript com TDD na prática">
   </a>
 </p>
 
@@ -63,7 +63,7 @@ Também temos o cupom de desconto **CTSHORTCUT** que garante 15% no Curso de Org
 
 <p align="center">
   <a href="https://csshortcut.github.io" title="Curso CSShortcut do Afonso Pacifer">
-    <img src="/img/csshortcut-banner.jpg" alt="Imagem do Curso CSShortcut do Afonso Pacifer">
+    <img src="/img/banners/banner_csshortcut.png" alt="Imagem do Curso CSShortcut do Afonso Pacifer">
   </a>
 </p>
 
