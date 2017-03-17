@@ -4,17 +4,15 @@ Informações gerais sobre o Training Center (CT para nós, brasileiros)
 
 <ul>
   <li><a href="https://ctgroups.herokuapp.com/" target="_blank">Entre no nosso grupo no Slack</a></li>
-  <li><a href="https://twitter.com/ct_org" target="_blank">Siga-nos no Twitter</a></li>
+  <li><a href="https://twitter.com/trainingcentr" target="_blank">Siga-nos no Twitter</a></li>
   <li><a href="https://medium.com/trainingcenter" target="_blank">Leia nossos artigos no Medium</a></li>
 </ul>
 
 # Training Center
 
-Um projeto **sem fins lucrativos** com intenção de ajudar quem precisa aprender alguma tecnologia, tem dúvidas sobre carreira ou quer fazer bons amigos para criarem um projeto juntos!
+Um projeto **sem fins lucrativos** com a premissa de ajudar desenvolvedores iniciantes ou não que tem dúvidas ou precisam de dicas para alavancar sua carreira ou só querem fazer bons amigos para criarem um projeto juntos.
 
-Um local para treinar suas habilidades com outros desenvolvedores da comunidade.
-
-Aqui podemos fazer qualquer coisa e todos podem participar.
+Aqui podemos fazer qualquer coisa e todos podem participar, independente do nível profissional!
 
 Conheça mais sobre o Training Center [nesse link](https://medium.com/trainingcenter/hello-world-conhe%C3%A7a-o-centro-de-treinamento-4a47a1230b0c#.t967t9x6c)
 
@@ -28,7 +26,7 @@ Se você quer formar um grupo para estudar alguma tecnologia, da uma olhada [nes
 
 Talvez você queira saber mais sobre mercado de trabalho com uma pessoa mais experiente, para isso temos o projeto [Mentoria](https://github.com/training-center/mentoria).
 
-Conheça mais sobre as iniciativas do Training Center [nesse link](https://medium.com/trainingcenter/iniciativas-do-centro-de-treinamento-271944071775#.449szqhb8)
+**Conheça mais sobre as iniciativas do Training Center [nesse link](https://medium.com/trainingcenter/iniciativas-do-centro-de-treinamento-271944071775#.449szqhb8)**
 
 ## Quem apoia o Training Center
 
