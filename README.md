@@ -43,19 +43,27 @@ Apoiadores do projeto:
   </a>
 </p>
 
-O cupom de desconto **CTNINJA** garante 15% no Curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
-
-<p align="center">
-  <a href="http://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
-    <img src="/img/banners/banner_js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
-  </a>
-</p>
-
 O cupom **CTJSTDD** garante **50%** de desconto no Curso JavaScript com TDD na prática do [Willian Justen](https://github.com/willianjusten).
 
 <p align="center">
   <a href="http://bit.ly/js-tdd-ct" title="Curso JavaScript com TDD na prática">
     <img src="/img/banners/banner_js-tdd.png" alt="Imagem do Curso JavaScript com TDD na prática">
+  </a>
+</p>
+
+O cupom de desconto **TRAINING** garante 20% em todo o site da [Editora Novatec](http://novatec.com.br/)
+
+<p align="center">
+  <a href="http://novatec.com.br/" title="Editora Novatec">
+    <img src="/img/banners/banner_novatec.png" alt="Banner da Editora Novatec">
+  </a>
+</p>
+
+O cupom de desconto **CTNINJA** garante 15% no Curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
+
+<p align="center">
+  <a href="http://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
+    <img src="/img/banners/banner_js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
   </a>
 </p>
 
@@ -67,12 +75,11 @@ O cupom de desconto **CTSHORTCUT** garante 15% no Curso de Organização de CSS,
   </a>
 </p>
 
-
-O cupom de desconto **TRAINING** garante 20% nos livros do site da [Editora Novatec](http://novatec.com.br/)
+O cupom de desconto **CTSTICKERS** garante 15% em todo o site [Stickers Devs](https://www.stickersdevs.com.br/)
 
 <p align="center">
-  <a href="http://novatec.com.br/" title="Editora Novatec">
-    <img src="/img/banners/banner_novatec.png" alt="Banner da Editora Novatec">
+  <a href="https://www.stickersdevs.com.br/" title="Stickers Devs">
+    <img src="/img/banners/banner_stickersdevs.png" alt="Banner do site Stickers Devs">
   </a>
 </p>
 
