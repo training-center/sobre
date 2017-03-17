@@ -43,7 +43,7 @@ Apoiadores do projeto:
   </a>
 </p>
 
-Nós temos o cupom de desconto **CTNINJA** que garante 15% no Curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
+O cupom de desconto **CTNINJA** garante 15% no Curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
 
 <p align="center">
   <a href="http://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
@@ -59,11 +59,20 @@ O cupom **CTJSTDD** garante **50%** de desconto no Curso JavaScript com TDD na p
   </a>
 </p>
 
-Também temos o cupom de desconto **CTSHORTCUT** que garante 15% no Curso de Organização de CSS, do [Afonso Pacifer](https://github.com/afonsopacifer).
+O cupom de desconto **CTSHORTCUT** garante 15% no Curso de Organização de CSS, do [Afonso Pacifer](https://github.com/afonsopacifer).
 
 <p align="center">
   <a href="https://csshortcut.github.io" title="Curso CSShortcut do Afonso Pacifer">
     <img src="/img/banners/banner_csshortcut.png" alt="Imagem do Curso CSShortcut do Afonso Pacifer">
+  </a>
+</p>
+
+
+O cupom de desconto **TRAINING** garante 20% nos livros do site da [Editora Novatec](http://novatec.com.br/)
+
+<p align="center">
+  <a href="http://novatec.com.br/" title="Editora Novatec">
+    <img src="/img/banners/banner_novatec.png" alt="Banner da Editora Novatec">
   </a>
 </p>
 
