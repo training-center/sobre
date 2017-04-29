@@ -48,4 +48,6 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 --
 
-*Esse texto é um documento em constante edição, e pode ser alterado no futuro.* Código de conduta baseado em: https://github.com/fnando/codigo-de-conduta, https://github.com/AndroidDevBR/Codigo-De-Conduta
+*Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
+
+Código de conduta baseado em: https://github.com/fnando/codigo-de-conduta, https://github.com/AndroidDevBR/Codigo-De-Conduta
