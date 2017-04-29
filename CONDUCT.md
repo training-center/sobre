@@ -40,11 +40,22 @@ Nós condenamos:
 O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências:
 
 - Publicações que não estiverem de acordo com este Código de Conduta serão removidas.
-- Cabe aos administradores decidir se você será removido temporariamente ou permanentemente deste grupo.
+- Cabe aos moderadores decidir se você será removido temporariamente ou permanentemente deste grupo.
 
-**Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um administrador. Se o administrador for a pessoa que você quer reportar, fale com outro administrador.**
+**Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um moderador. Se o moderador for a pessoa que você quer reportar, fale com outro moderador.**
 
-*A posição de administrador é para fins de moderação imparcial; eles não vão moderar ou editar o conteúdo postado pelos membros do grupo para outras finalidades ou por motivos estritamente pessoais.*
+*A posição de moderador é para fins de moderação imparcial; eles não vão moderar ou editar o conteúdo postado pelos membros do grupo para outras finalidades ou por motivos estritamente pessoais.*
+
+## Moderadores
+
+* [Ademílson F. Tonato](https://github.com/ftonato)
+* [Aline Bastos](https://github.com/alinebastos)
+* [Danilo Vaz](https://github.com/danilovaz)
+* [Gil Vieira](https://github.com/ogilvieira)
+* [Jamile Lima](https://github.com/JamileLima)
+* [Luiz Paulo "Bills"](https://github.com/luizbills)
+* [Ramon Sanches](https://github.com/raymonsanches)
+* [William Oliveira](https://github.com/woliveiras)
 
 --
 
