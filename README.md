@@ -15,7 +15,9 @@ Um projeto **sem fins lucrativos** com a premissa de ajudar desenvolvedores inic
 
 Aqui podemos fazer qualquer coisa e todos podem participar, independente do nível profissional!
 
-Conheça mais sobre o Training Center [nesse link](https://medium.com/trainingcenter/hello-world-conhe%C3%A7a-o-centro-de-treinamento-4a47a1230b0c#.t967t9x6c)
+Conheça mais sobre o Training Center [nesse link](https://medium.com/trainingcenter/hello-world-conhe%C3%A7a-o-centro-de-treinamento-4a47a1230b0c#.t967t9x6c).
+
+Para participar de nossas iniciativas e dessa comunidade você deve estar de acordo com nosso código de conduta que pode ser lido [nesse link](./CONDUCT.md).
 
 ## Iniciativas do Training Center
 
