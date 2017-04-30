@@ -57,7 +57,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 * [Ramon Sanches](https://github.com/raymonsanches)
 * [William Oliveira](https://github.com/woliveiras)
 
---
+---
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
