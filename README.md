@@ -63,10 +63,10 @@ O cupom de desconto **TRAINING** garante 20% em todo o site da [Editora Novatec]
   </a>
 </p>
 
-O cupom de desconto **CTNINJA** garante 15% no Curso Java Script Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
+O cupom de desconto **CTNINJA** garante 23% no Curso JavaScript Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
 
 <p align="center">
-  <a href="http://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
+  <a href="https://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
     <img src="/img/banners/banner_js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
   </a>
 </p>
