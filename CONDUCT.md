@@ -57,6 +57,8 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 * [Ramon Sanches](https://github.com/raymonsanches)
 * [William Oliveira](https://github.com/woliveiras)
 
+Caso você sofra qualquer agressão ou perceba que alguém infringiu nosso código de conduta você pode alertar a moderação ou nos alertar através [deste formulário anônimo](https://trainingcenter2.typeform.com/to/P09LMl). - Tente escrever diferente do que escreve no Slack para que sua identidade continue anônima, pois não é interessante que ninguém saiba que foi você quem fez uma denúncia se ela veio anônima, nem mesmo a moderação.
+
 ---
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
