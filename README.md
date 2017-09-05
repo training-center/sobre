@@ -15,17 +15,17 @@ Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse cu
 
 # Training Center
 
-Uma comunidade **sem fins lucrativos** com a premissa de ajudar pessoas iniciantes ou não que tem dúvidas ou precisam de dicas para alavancar sua carreira na área de desenvolvimento de software ou só querem fazer bons amigos e amigas para criarem um projeto juntos.
+Uma comunidade **sem fins lucrativos** com a premissa de ajudar pessoas, iniciantes ou não, que tem dúvidas, que precisam de dicas para alavancar sua carreira na área de desenvolvimento de software ou só querem fazer boas amizades para criarem projetos juntos.
 
-Conectamos pessoas que querem aprender algo relacionado a desenvolvimento de software com gente que pode lhes guiar.
+Conectamos pessoas que querem aprender algo relacionado a desenvolvimento de software com gente que pode lhes guiá-las.
 
 Entendemos como desenvolvimento de um software todas áreas relacionadas a criação de um produto digital, como design, back-end, front-end, mobile, IoT, agilidade, gerencia e demais.
 
 Fazemos tudo online, via GitHub, ou outras plataformas colaborativas, como o Slack.
  
-Nós, como grupo que pode fazer algo pela sociedade, abraçamos a responsabilidade de ajudar as minorias buscando apoiar desde comunidades carentes, mulheres na tecnologia, comunidade LGBTI+ ou qualquer outro grupo que sofre de alguma maneira para entrar ou trabalhar em nossa área de atuação.
+Nós, como grupo que pode fazer algo pela sociedade, abraçamos a responsabilidade de ajudar as minorias buscando apoiar desde comunidades carentes, mulheres na tecnologia, comunidade LGBTI+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área de atuação.
 
-Estamos aqui da comunidade para a comunidade e buscando agregar valor a nossa sociedade.
+Estamos aqui da comunidade para a comunidade, buscando agregar valor à nossa sociedade.
 
 Aqui podemos fazer qualquer coisa e todos podem participar, independente do nível profissional!
 
