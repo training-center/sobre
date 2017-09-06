@@ -15,9 +15,9 @@ Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse cu
 
 # Training Center
 
-Uma comunidade **sem fins lucrativos** com a premissa de ajudar pessoas, iniciantes ou não, que tem dúvidas, que precisam de dicas para alavancar sua carreira na área de desenvolvimento de software ou só querem fazer boas amizades para criarem projetos juntos.
+Uma comunidade **sem fins lucrativos** com a premissa de ajudar pessoas, iniciantes ou não, que têm dúvidas, que precisam de dicas para alavancar sua carreira na área de desenvolvimento de software ou só querem fazer boas amizades para criarem projetos juntos.
 
-Conectamos pessoas que querem aprender algo relacionado a desenvolvimento de software com gente que pode lhes guiá-las.
+Conectamos pessoas que querem aprender algo relacionado a desenvolvimento de software com gente que pode guiá-las.
 
 Entendemos como desenvolvimento de um software todas áreas relacionadas a criação de um produto digital, como design, back-end, front-end, mobile, IoT, agilidade, gerencia e demais.
 
