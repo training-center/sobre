@@ -15,21 +15,23 @@ Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse cu
 
 # Training Center
 
-Uma comunidade **sem fins lucrativos** com a premissa de ajudar pessoas, iniciantes ou não, que têm dúvidas, que precisam de dicas para alavancar sua carreira na área de desenvolvimento de software ou só querem fazer boas amizades para criarem projetos juntos.
+Uma comunidade Open Source criada para conectar pessoas para juntas fazerem coisas boas.
 
-Conectamos pessoas que querem aprender algo relacionado a desenvolvimento de software com gente que pode guiá-las.
+Juntamos pessoas que querem aprender algo relacionado a desenvolvimento de software com gente que pode guiá-las.
+
+Nossos projetos **sem fins lucrativos** possuem a premissa de ajudar pessoas a entrar na área de desenvolvimento de software ou alavancar suas carreiras.
 
 Entendemos como desenvolvimento de um software todas áreas relacionadas a criação de um produto digital, como design, back-end, front-end, mobile, IoT, agilidade, gerencia e demais.
 
-Fazemos tudo online, via GitHub, ou outras plataformas colaborativas, como o Slack.
+Fazemos tudo online, via GitHub, ou outras plataformas colaborativas, como o Slack. Por isso é importante que você, caso queira se envolver mais com a comunidade, aprenda a usar o Git e GitHub, além de conhecer o nosso [Slack](https://github.com/training-center/slack).
  
-Nós, como grupo que pode fazer algo pela sociedade, abraçamos a responsabilidade de ajudar as minorias buscando apoiar desde comunidades carentes, mulheres na tecnologia, comunidade LGBTI+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área de atuação.
+Nós, **como grupo que pode fazer alguma diferença na sociedade**, abraçamos a responsabilidade de ajudar as minorias buscando apoiar comunidades carentes, mulheres na tecnologia, comunidade LGBTI+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
 
-Estamos aqui da comunidade para a comunidade, buscando agregar valor à nossa sociedade.
+[Estamos aqui da comunidade para a comunidade, buscando agregar valor à nossa sociedade](https://woliveiras.com.br/posts/Devolva-para-as-comunidades/).
 
 Aqui podemos fazer qualquer coisa e todos podem participar, independente do nível profissional!
 
-Conheça mais sobre o Training Center [nesse link](https://medium.com/trainingcenter/hello-world-conhe%C3%A7a-o-centro-de-treinamento-4a47a1230b0c#.t967t9x6c).
+Conheça mais sobre nós [nesse link](https://medium.com/trainingcenter/hello-world-conhe%C3%A7a-o-centro-de-treinamento-4a47a1230b0c#.t967t9x6c).
 
 Para participar de nossas iniciativas e da comunidade você deve estar de acordo com nosso [código de conduta](./CONDUCT.md).
 
