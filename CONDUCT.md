@@ -50,6 +50,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 * [Ademílson F. Tonato](https://github.com/ftonato)
 * [Aline Bastos](https://github.com/alinebastos)
+* [Andréa Zambrana](https://github.com/akfzambrana)
 * [Danilo Vaz](https://github.com/danilovaz)
 * [Jamile Lima](https://github.com/JamileLima)
 * [Marcela Bomfim](https://github.com/marcelabomfim)
