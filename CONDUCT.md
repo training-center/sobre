@@ -51,10 +51,9 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 * [Ademílson F. Tonato](https://github.com/ftonato)
 * [Aline Bastos](https://github.com/alinebastos)
 * [Danilo Vaz](https://github.com/danilovaz)
-* [Gil Vieira](https://github.com/ogilvieira)
 * [Jamile Lima](https://github.com/JamileLima)
-* [Luiz Paulo "Bills"](https://github.com/luizbills)
 * [Marcela Bomfim](https://github.com/marcelabomfim)
+* [Mariana Brito](https://github.com/BritoMari)
 * [Ramon Sanches](https://github.com/raymonsanches)
 * [William Oliveira](https://github.com/woliveiras)
 
