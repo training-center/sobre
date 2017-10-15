@@ -52,6 +52,7 @@ O desrespeito √†s regras desta comunidade, descritas nesse documento, acarretar√
 * [Aline Bastos](https://github.com/alinebastos)
 * [Danilo Vaz](https://github.com/danilovaz)
 * [Jamile Lima](https://github.com/JamileLima)
+* [Marcela Bomfim](https://github.com/marcelabomfim)
 * [Mariana Brito](https://github.com/BritoMari)
 * [Ramon Sanches](https://github.com/raymonsanches)
 * [William Oliveira](https://github.com/woliveiras)
