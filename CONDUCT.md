@@ -54,6 +54,7 @@ O desrespeito √†s regras desta comunidade, descritas nesse documento, acarretar√
 * [Gil Vieira](https://github.com/ogilvieira)
 * [Jamile Lima](https://github.com/JamileLima)
 * [Luiz Paulo "Bills"](https://github.com/luizbills)
+* [Mariana Brito](https://github.com/BritoMari)
 * [Ramon Sanches](https://github.com/raymonsanches)
 * [William Oliveira](https://github.com/woliveiras)
 
