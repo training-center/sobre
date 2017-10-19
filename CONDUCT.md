@@ -49,13 +49,17 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 ## Moderadores
 
 * [Ademílson F. Tonato](https://github.com/ftonato)
+* [Adeonir Kohl](https://github.com/adeonir)
 * [Aline Bastos](https://github.com/alinebastos)
 * [Andréa Zambrana](https://github.com/akfzambrana)
+* [Beatriz Rodrigues](https://github.com/biavilasb)
 * [Danilo Vaz](https://github.com/danilovaz)
+* [Erik Patekoski](https://github.com/patota)
 * [Jamile Lima](https://github.com/JamileLima)
 * [Jaqueline Venturim](https://github.com/jaqueventurim)
 * [Marcela Bomfim](https://github.com/marcelabomfim)
 * [Mariana Brito](https://github.com/BritoMari)
+* [Mariano Jhuninhu](https://github.com/MarianoJhuninhu)
 * [Ramon Sanches](https://github.com/raymonsanches)
 * [William Oliveira](https://github.com/woliveiras)
 
