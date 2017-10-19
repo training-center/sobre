@@ -53,6 +53,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 * [Andréa Zambrana](https://github.com/akfzambrana)
 * [Danilo Vaz](https://github.com/danilovaz)
 * [Jamile Lima](https://github.com/JamileLima)
+* [Jaqueline Venturim](https://github.com/jaqueventurim)
 * [Marcela Bomfim](https://github.com/marcelabomfim)
 * [Mariana Brito](https://github.com/BritoMari)
 * [Ramon Sanches](https://github.com/raymonsanches)
