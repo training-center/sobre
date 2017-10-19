@@ -61,6 +61,7 @@ O desrespeito √†s regras desta comunidade, descritas nesse documento, acarretar√
 * [Marcela Bomfim](https://github.com/marcelabomfim)
 * [Mariana Brito](https://github.com/BritoMari)
 * [Mariano Jhuninhu](https://github.com/MarianoJhuninhu)
+* [Nath Paiva](https://github.com/nathpaiva)
 * [Ramon Sanches](https://github.com/raymonsanches)
 * [William Oliveira](https://github.com/woliveiras)
 
