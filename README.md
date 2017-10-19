@@ -11,7 +11,7 @@
   <li><a href="https://www.youtube.com/c/TrainingCenterChannel" target="_blank" title="Acompanhe nossos vídeos no YouTube">Acompanhe nossos vídeos no YouTube</a></li>
 </ul>
 
-Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça <a href="https://www.udemy.com/git-e-github-para-iniciantes/" target="_blank" title="Curso de Git e GitHub gratuito e sensacional do @willianjusten">esse curso</a> (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
 # Training Center
 
