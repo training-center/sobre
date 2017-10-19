@@ -57,6 +57,7 @@ O desrespeito √†s regras desta comunidade, descritas nesse documento, acarretar√
 * [Erik Patekoski](https://github.com/patota)
 * [Jamile Lima](https://github.com/JamileLima)
 * [Jaqueline Venturim](https://github.com/jaqueventurim)
+* [Leandro Bighetti](https://github.com/lbighetti)
 * [Marcela Bomfim](https://github.com/marcelabomfim)
 * [Mariana Brito](https://github.com/BritoMari)
 * [Mariano Jhuninhu](https://github.com/MarianoJhuninhu)
