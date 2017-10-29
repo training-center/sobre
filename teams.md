@@ -24,7 +24,7 @@ Neste time temos pessoas que conseguem fazer revisão de conteúdo em texto, ví
 
 **Representante:** [@lhs.santos](http://github.com/khaosdoctor)
 
-**Time:** [@alinebastos](https://github.com/alinebastos), @anacs, [@cenoura](http://github.com/cenoura), @danilov, @mafra, @ana_bastos, @brunorafael, [@hdamaich](http://github.com/hdamaich), @xavito, [@leandro.bighetti](http://github.com/lbighetti), @naatazevedo, [@serradura](https://github.com/serradura), [@woliveiras](http://github.com/woliveiras), @williamdutra
+**Time:** [@alinebastos](https://github.com/alinebastos), @anacs, [@cenoura](http://github.com/cenoura), @danilov, @mafra, @ana_bastos, @brunorafael, [@hdamaich](http://github.com/hdamaich), @xavito, [@leandro.bighetti](http://github.com/lbighetti), @naatazevedo, [@serradura](https://github.com/serradura), [@woliveiras](http://github.com/woliveiras), @williamdutra, @khaueviana, @luan0ap, @thmendes
 
 ## Onde foram definidos os times
 
