@@ -22,9 +22,9 @@ Time responsável por dar suporte as pessoas que geram conteúdo para o nosso bl
 
 Neste time temos pessoas que conseguem fazer revisão de conteúdo em texto, vídeo e edição de vídeo.
 
-**Representante:** [@lhs.santos](github.com/khaosdoctor)
+**Representante:** [@lhs.santos](http://github.com/khaosdoctor)
 
-**Time:** [@alinebastos](https://github.com/alinebastos), @anacs, [@cenoura](github.com/cenoura), @danilov, @mafra, @ana_bastos, @brunorafael, [@hdamaich](github.com/hdamaich), @xavito, [@leandro.bighetti](github.com/lbighetti), @naatazevedo, [@serradura](https://github.com/serradura), [@woliveiras](github.com/woliveiras), @williamdutra
+**Time:** [@alinebastos](https://github.com/alinebastos), @anacs, [@cenoura](http://github.com/cenoura), @danilov, @mafra, @ana_bastos, @brunorafael, [@hdamaich](http://github.com/hdamaich), @xavito, [@leandro.bighetti](http://github.com/lbighetti), @naatazevedo, [@serradura](https://github.com/serradura), [@woliveiras](http://github.com/woliveiras), @williamdutra
 
 ## Onde foram definidos os times
 
