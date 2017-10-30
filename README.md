@@ -130,6 +130,22 @@ O cupom de desconto **CTSTICKERS** garante 15% em todo o site [Stickers Devs](ht
   </a>
 </p>
 
+O cupom de desconto **PRMOCT20** garante **98%** de desconto no Curso [Front-end moderno: Gulp, SASS, NPM-script e Git](https://www.udemy.com/ferramentas-front-end-git-npm-script-gulp-e-sass/?couponCode=PRMOCT20).
+
+<p align="center">
+  <a href="https://www.udemy.com/ferramentas-front-end-git-npm-script-gulp-e-sass/?couponCode=PRMOCT20" title="Curso Front-end moderno: Gulp, SASS, NPM-script e Git">
+    <img src="https://raw.githubusercontent.com/training-center/sobre/master/img/banners/banner_frontend_workflow.png" alt="Banner do Curso Front-end moderno: Gulp, SASS, NPM-script e Git">
+  </a>
+</p>
+
+O cupom de desconto **PROMOCT20** garante **85%** de desconto no Curso [Lógica de programação com **Javascript**](https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=PROMOCT20).
+
+<p align="center">
+  <a href="https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=PROMOCT20" title="Lógica de programação com Javascript">
+    <img src="https://raw.githubusercontent.com/training-center/sobre/master/img/banners/banner_LogicaJS.jpg" alt="Banner do Curso de Lógica de programação com Javascript">
+  </a>
+</p>
+
 ---
 
 Todo conhecimento deveria ser compartilhado.
