@@ -130,7 +130,7 @@ O cupom de desconto **CTSTICKERS** garante 15% em todo o site [Stickers Devs](ht
   </a>
 </p>
 
-O cupom de desconto **PRMOCT20** garante **98%** de desconto no Curso [Front-end moderno: Gulp, SASS, NPM-script e Git](https://www.udemy.com/ferramentas-front-end-git-npm-script-gulp-e-sass/?couponCode=PRMOCT20).
+O cupom de desconto **PRMOCT20** garante **89%** de desconto no Curso [Front-end moderno: Gulp, SASS, NPM-script e Git](https://www.udemy.com/ferramentas-front-end-git-npm-script-gulp-e-sass/?couponCode=PRMOCT20).
 
 <p align="center">
   <a href="https://www.udemy.com/ferramentas-front-end-git-npm-script-gulp-e-sass/?couponCode=PRMOCT20" title="Curso Front-end moderno: Gulp, SASS, NPM-script e Git">
