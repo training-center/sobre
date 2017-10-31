@@ -77,76 +77,7 @@ Em nossos Meetups você poderá fazer uma palestra ou indicar um assunto seguind
 
 **Conheça mais sobre as iniciativas do Training Center [nesse link](https://medium.com/trainingcenter/iniciativas-do-centro-de-treinamento-271944071775#.449szqhb8)**
 
-## Quem apoia o Training Center
-
-Apoiadores do projeto:
-
-<p align="center">
-  <a href="http://bit.ly/dne-custom-mentoria" title="Dev na Estrada">
-    <img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo DevNaEstrada">
-  </a>
-  <a href="http://frontux.com/" title="FrontUX">
-    <img src="/img/frontux-logo.png" alt="Logo FrontUX">
-  </a>
-</p>
-
-O cupom **CTJSTDD** garante **50%** de desconto no Curso JavaScript com TDD na prática do [Willian Justen](https://github.com/willianjusten).
-
-<p align="center">
-  <a href="http://bit.ly/js-tdd-ct" title="Curso JavaScript com TDD na prática">
-    <img src="https://raw.githubusercontent.com/training-center/sobre/master/img/banners/banner_js-tdd.png" alt="Imagem do Curso JavaScript com TDD na prática">
-  </a>
-</p>
-
-O cupom de desconto **TRAINING** garante 20% em todo o site da [Editora Novatec](http://novatec.com.br/)
-
-<p align="center">
-  <a href="http://novatec.com.br/" title="Editora Novatec">
-    <img src="https://raw.githubusercontent.com/training-center/sobre/master/img/banners/banner_novatec.png" alt="Banner da Editora Novatec">
-  </a>
-</p>
-
-O cupom de desconto **CTNINJA** garante 23% no Curso JavaScript Ninja, do [Fernando Daciuk](https://github.com/fdaciuk).
-
-<p align="center">
-  <a href="https://blog.da2k.com.br/curso-javascript-ninja/" title="Curso JavaScript Ninja">
-    <img src="https://raw.githubusercontent.com/training-center/sobre/master/img/banners/banner_js-ninja.png" alt="Imagem do Curso JavaScript Ninja">
-  </a>
-</p>
-
-O cupom de desconto **CTSHORTCUT** garante 15% no Curso de Organização de CSS, do [Afonso Pacifer](https://github.com/afonsopacifer).
-
-<p align="center">
-  <a href="https://csshortcut.github.io" title="Curso CSShortcut do Afonso Pacifer">
-    <img src="https://raw.githubusercontent.com/training-center/sobre/master/img/banners/banner_csshortcut.png" alt="Imagem do Curso CSShortcut do Afonso Pacifer">
-  </a>
-</p>
-
-O cupom de desconto **CTSTICKERS** garante 15% em todo o site [Stickers Devs](https://www.stickersdevs.com.br/)
-
-<p align="center">
-  <a href="https://www.stickersdevs.com.br/" title="Stickers Devs">
-    <img src="https://raw.githubusercontent.com/training-center/sobre/master/img/banners/banner_stickersdevs.png" alt="Banner do site Stickers Devs">
-  </a>
-</p>
-
-O cupom de desconto **PRMOCT20** garante **89%** de desconto no Curso [Front-end moderno: Gulp, SASS, NPM-script e Git](https://www.udemy.com/ferramentas-front-end-git-npm-script-gulp-e-sass/?couponCode=PRMOCT20).
-
-<p align="center">
-  <a href="https://www.udemy.com/ferramentas-front-end-git-npm-script-gulp-e-sass/?couponCode=PRMOCT20" title="Curso Front-end moderno: Gulp, SASS, NPM-script e Git">
-    <img src="https://raw.githubusercontent.com/training-center/sobre/master/img/banners/banner_frontend_workflow.png" alt="Banner do Curso Front-end moderno: Gulp, SASS, NPM-script e Git">
-  </a>
-</p>
-
-O cupom de desconto **PROMOCT20** garante **85%** de desconto no Curso [Lógica de programação com **Javascript**](https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=PROMOCT20).
-
-<p align="center">
-  <a href="https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/?couponCode=PROMOCT20" title="Lógica de programação com Javascript">
-    <img src="https://raw.githubusercontent.com/training-center/sobre/master/img/banners/banner_LogicaJS.jpg" alt="Banner do Curso de Lógica de programação com Javascript">
-  </a>
-</p>
-
----
+## [Conheça quem nos apoia, nos divulga e até alguns cupons de desconto ;)](https://github.com/training-center/sponsors)
 
 Todo conhecimento deveria ser compartilhado.
 
