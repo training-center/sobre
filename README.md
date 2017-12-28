@@ -60,7 +60,7 @@ Para participar de nossas iniciativas e da comunidade você deve estar de acordo
 * [Mentoria](https://github.com/training-center/mentoria/)
 * [Code Review](https://github.com/training-center/code-review)
 * [Meetups](https://github.com/training-center/meetups)
-* [Ajuda para suas primeiras palestras](https://github.com/training-center/call-4-papers)
+* [Ajuda para suas primeiras palestras](https://github.com/training-center/help4papers)
 * [Ajuda para seus primeiros artigos](https://medium.com/trainingcenter)
 
 ## Como escrever para o Training Center
