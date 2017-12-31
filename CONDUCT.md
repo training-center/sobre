@@ -46,7 +46,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 *A posição de moderador é para fins de moderação imparcial; eles não vão moderar ou editar o conteúdo postado pelos membros do grupo para outras finalidades ou por motivos estritamente pessoais.*
 
-## Moderadores
+## Moderadores(as)
 
 Leia o documento sobre a moderação ([Admins Guide](admin/ADMINS_GUIDE.md)) para entender o que fazemos nesta posição e como entrar em contato conosco.
 
