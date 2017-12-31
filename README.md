@@ -10,6 +10,20 @@ Esta comunidade **não possui meios de conseguir renda**, porém, você pode doa
  </a>
 </p>
 
+## Sumário
+
+- [O que é o Training Center](#o-que-%C3%A9-o-training-center)
+- [Codigo de conduta](#codigo-de-conduta)
+  - [Como denunciar uma infração](#como-denunciar-uma-infra%C3%A7%C3%A3o)
+  - [Responsabilidades da moderação e liderança](#responsabilidades-da-modera%C3%A7%C3%A3o-e-lideran%C3%A7a)
+- [Conhecendo mais sobre nossa comunidade](#conhecendo-mais-sobre-nossa-comunidade)
+- [Como funcionam nossas iniciativas](#como-funcionam-nossas-iniciativas)
+- [Como participar da comunidade](#como-participar-da-comunidade)
+- [Como contribuir com a comunidade](#como-contribuir-com-a-comunidade)
+- [Conheça quem nos apoia, nos divulga e pegue alguns cupons de desconto em cursos e livros](#conhe%C3%A7a-quem-nos-apoia-nos-divulga-e-pegue-alguns-cupons-de-desconto-em-cursos-e-livros)
+
+-------
+
 ## O que é o Training Center
 
 O Training Center é uma comunidade de pessoas que trabalham na área de desenvolvimento de software (programação, design, bancos de dados etc.).
@@ -116,8 +130,6 @@ Você pode nos ajudar a editar vídeos, revisar textos etc.. Basta estar no noss
 Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça <a href="https://www.udemy.com/git-e-github-para-iniciantes/" target="_blank" title="Curso de Git e GitHub gratuito e sensacional do @willianjusten">esse curso</a> (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
 ## [Conheça quem nos apoia, nos divulga e pegue alguns cupons de desconto em cursos e livros](https://github.com/training-center/sponsors)
-
----
 
 Todo conhecimento deveria ser compartilhado.
 
