@@ -1,4 +1,4 @@
-# Regras de conduta para participantes dos projetos no Training Center
+# Regras de conduta para participantes do Training Center
 
 Essas são as regras de conduta para que não aconteça nenhum transtorno por parte dos(as) envolvidos(as) em nossos projetos.
 
