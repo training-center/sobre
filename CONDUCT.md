@@ -1,4 +1,4 @@
-# Regras de conduta para participantes dos projetos no Training Center
+# Regras de conduta para participantes do Training Center
 
 Essas são as regras de conduta para que não aconteça nenhum transtorno por parte dos(as) envolvidos(as) em nossos projetos.
 
@@ -46,28 +46,9 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 *A posição de moderador é para fins de moderação imparcial; eles não vão moderar ou editar o conteúdo postado pelos membros do grupo para outras finalidades ou por motivos estritamente pessoais.*
 
-## Moderadores
+## Moderação
 
-* [Ademílson F. Tonato](https://github.com/ftonato)
-* [Adeonir Kohl](https://github.com/adeonir)
-* [Aline Bastos](https://github.com/alinebastos)
-* [Andréa Zambrana](https://github.com/akfzambrana)
-* [Beatriz Rodrigues](https://github.com/biavilasb)
-* [Danilo Vaz](https://github.com/danilovaz)
-* [Erik Patekoski](https://github.com/patota)
-* [Fernanda Bernardo](https://github.com/FernandaBernardo)
-* [Jamile Lima](https://github.com/JamileLima)
-* [Jaqueline Venturim](https://github.com/jaqueventurim)
-* [Leandro Bighetti](https://github.com/lbighetti)
-* [Lucas Santos](https://github.com/khaosdoctor)
-* [Luiz Felipe Limeira](https://github.com/lflimeira)
-* [Marcela Bomfim](https://github.com/marcelabomfim)
-* [Mariana Brito](https://github.com/BritoMari)
-* [Mariano Jhuninhu](https://github.com/MarianoJhuninhu)
-* [Nath Paiva](https://github.com/nathpaiva)
-* [Paulo Diniz](https://github.com/paulodiniz)
-* [Ramon Sanches](https://github.com/raymonsanches)
-* [William Oliveira](https://github.com/woliveiras)
+Leia o documento sobre a moderação ([Admins Guide](admin/ADMINS_GUIDE.md)) para entender o que fazemos nesta posição e como entrar em contato conosco.
 
 Caso você sofra qualquer agressão ou perceba que alguém infringiu nosso código de conduta você pode alertar a moderação ou nos alertar através [deste formulário anônimo](https://trainingcenter2.typeform.com/to/P09LMl). - Tente escrever diferente do que escreve no Slack para que sua identidade continue anônima, pois não é interessante que ninguém saiba que foi você quem fez uma denúncia se ela veio anônima, nem mesmo a moderação.
 
