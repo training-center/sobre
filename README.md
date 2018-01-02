@@ -30,7 +30,7 @@ O Training Center é uma comunidade de pessoas que trabalham na área de desenvo
 
 Um de nossos principais objetivos é conectar pessoas que querem entrar na área com pessoas que já atuam. Compartilhando e ajudando os novatos a aprender e conseguir seu primeiro emprego. Também ajudamos pessoas que já trabalham na área e buscam aprimoramento profissional a elevar seus níveis técnicos ou soft skills para irem mais longe.
 
-Entendemos como desenvolvimento de um software todas áreas relacionadas a criação de um produto digital, como design, back-end, front-end, mobile, IoT, agilidade, gerência etc..
+Entendemos como desenvolvimento de um software, todas áreas relacionadas a criação de um produto digital, como design, back-end, front-end, mobile, IoT, agilidade, gerência, etc.
 
 Nós, **um grupo que faz a diferença na sociedade**, abraçamos a responsabilidade de ajudar minorias buscando apoiar comunidades carentes, mulheres na tecnologia, negros, comunidade LGBTI+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
 
