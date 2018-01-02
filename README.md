@@ -32,7 +32,7 @@ Um de nossos principais objetivos é conectar pessoas que querem entrar na área
 
 Entendemos como desenvolvimento de um software todas áreas relacionadas a criação de um produto digital, como design, back-end, front-end, mobile, IoT, agilidade, gerência etc..
 
-Nós, **um grupo que faz diferença na sociedade**, abraçamos a responsabilidade de ajudar minorias buscando apoiar comunidades carentes, mulheres na tecnologia, negros, comunidade LGBTI+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
+Nós, **um grupo que faz a diferença na sociedade**, abraçamos a responsabilidade de ajudar minorias buscando apoiar comunidades carentes, mulheres na tecnologia, negros, comunidade LGBTI+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
 
 [E estamos aqui da comunidade para a comunidade](https://woliveiras.com.br/posts/Devolva-para-as-comunidades/).
 
