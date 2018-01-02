@@ -2,7 +2,7 @@
 
 > Informações gerais sobre o Training Center
 
-Esta comunidade **não possui meios de conseguir renda**, porém, você pode doar mensalmente para nosso grupo através do [apoia.se](http://apoia.se/training-center) e garantir a continuação do funcionamento das nossas ferramentas. ;P
+Esta comunidade **não possui meios de conseguir renda**, porém você pode doar mensalmente para nosso grupo através do [apoia.se](http://apoia.se/training-center) e garantir a continuação do funcionamento das nossas ferramentas.
 
 <p align="center">
  <a href="http://apoia.se/training-center" title="Apoia.se do Training Center">
@@ -26,17 +26,17 @@ Esta comunidade **não possui meios de conseguir renda**, porém, você pode doa
 
 ## O que é o Training Center
 
-O Training Center é uma comunidade de pessoas que trabalham na área de desenvolvimento de software (programação, design, bancos de dados etc.).
+O Training Center é uma comunidade de pessoas que trabalham na área de desenvolvimento de software: programação, design, bancos de dados, etc.
 
-Um de nossos principais objetivos é unir pessoas que querem entrar na área de desenvolvimento de software com gente que tem experiência para compartilhar e que podem ajudar essas pessoas a aprender e conseguir seu primeiro emprego. Também ajudamos pessoas que já trabalham na área e buscam aprimoramento profissional a elevar seus níveis técnicos ou soft skills para irem mais longe.
+Um de nossos principais objetivos é conectar pessoas que querem entrar na área com pessoas que já atuam. Compartilhando e ajudando os novatos a aprender e conseguir seu primeiro emprego. Também ajudamos pessoas que já trabalham na área e buscam aprimoramento profissional a elevar seus níveis técnicos ou soft skills para irem mais longe.
 
 Entendemos como desenvolvimento de um software todas áreas relacionadas a criação de um produto digital, como design, back-end, front-end, mobile, IoT, agilidade, gerência etc..
 
-Nós, **como um grupo que pode fazer alguma diferença na sociedade**, abraçamos a responsabilidade de ajudar minorias buscando apoiar comunidades carentes, mulheres na tecnologia, pessoas negras, comunidade LGBTI+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
+Nós, **um grupo que faz diferença na sociedade**, abraçamos a responsabilidade de ajudar minorias buscando apoiar comunidades carentes, mulheres na tecnologia, negros, comunidade LGBTI+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
 
 [E estamos aqui da comunidade para a comunidade](https://woliveiras.com.br/posts/Devolva-para-as-comunidades/).
 
-Qualquer pessoa pode participar de nossa comunidade e iniciativas, independente do nível profissional. Acima de tudo, queremos te fazer evoluir.
+Qualquer pessoa pode participar de nossa comunidade e iniciativas, independente do nível profissional. Acima de tudo, queremos a evolução de todos.
 
 ## Codigo de conduta
 
