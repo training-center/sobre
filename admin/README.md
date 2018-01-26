@@ -17,3 +17,5 @@ Para conversar com o core, basta enviar uma mensagem para seu próprio usuário 
 - [adicionando pessoas aos times do Training Center](docs/add-team-members.md)
 - [envianddo mensagens para times via GitHub](docs/sending-group-messages.md)
 - [criando um repositório do Training Center](docs/creating-repository.md)
+- [adicionando times aos repositórios](docs/add-repository-team.md)
+- [protegendo branches](docs/protect-branches.md)
