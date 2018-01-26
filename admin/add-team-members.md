@@ -16,7 +16,7 @@ Acesse o time **study-groups**.
 
 ![Imgur](https://i.imgur.com/fCgze66.png)
 
-Será aberta a página do time. Nessa página podemos enviar mensagens para os times ou executar processos administrativos.
+Será aberta a página do time. Nessa página podemos [enviar mensagens](./sending-group-messages.md) para os times ou executar processos administrativos.
 
 ![Imgur](https://i.imgur.com/wpoUjgS.png)
 
