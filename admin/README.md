@@ -19,3 +19,4 @@ Para conversar com o core, basta enviar uma mensagem para seu próprio usuário 
 - [criando um repositório do Training Center](docs/creating-repository.md)
 - [adicionando times aos repositórios](docs/add-repository-team.md)
 - [protegendo branches](docs/protect-branches.md)
+- [resolução de conflitos e banimentos da comunidade](docs/conflicts.md)
