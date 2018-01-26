@@ -51,7 +51,7 @@ Onde, em **Infração cometida**, devemos adicionar onde ela quebrou o **código
 
 ## Permissões e projetos
 
-Qualquer pessoa pode ser banida da nossa comunidade por quebra ao **COC**. Tanto membros quanto pessoas da organização. Isso implica em: a pessoa deve ser banida do **Slack** e possivelmente de nossos projetos.
+Qualquer pessoa pode ser banida da nossa comunidade por quebra ao **COC**. Tanto membros quanto pessoas da organização. Isso implica em: a pessoa deve ser banida do **Slack** e de nossos projetos.
 
 Processos:
 
