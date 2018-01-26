@@ -6,6 +6,8 @@ Você não deve dar privilégios de owner a ninguém, a não ser que seja alinha
 
 Para conversar com o core, basta enviar uma mensagem para seu próprio usuário no Slack com o comando `@core`. Serão listados os usuários que você deve contactar.
 
+---
+
 ## Acessando a aba teams
 
 Acesse o link da nossa org (https://github.com/training-center) e clique em **teams**.
