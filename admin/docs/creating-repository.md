@@ -12,3 +12,5 @@ Depois da criação do repo existem algumas medidas de segurança que devemos se
 
 * [Adicionar um time como owner do repo](./add-repository-team.md)
 * [Configurar branchs protegidas](./protect-branches.md)
+
+Em todo repositório deve existir um diretório `admin` onde explica os processos administrativos da organização do projeto **([exemplo](https://github.com/training-center/study-groups/blob/master/admin/criando-um-grupo.md))**.
