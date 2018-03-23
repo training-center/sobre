@@ -58,7 +58,7 @@ Você pode fazer uma denúncia anônima através deste formulário: [Central de 
 
 ### Responsabilidades da moderação e liderança
 
-Você pode conferir nossas responsabilidades neste documento: [Admins Guide](/admin/ADMINS_GUIDE.md).
+Você pode conferir nossas responsabilidades neste documento: [Admins Guide](/admin/docs/ADMINS_GUIDE.md).
 
 ## Conhecendo mais sobre nossa comunidade
 

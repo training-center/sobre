@@ -48,7 +48,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 ## Moderação
 
-Leia o documento sobre a moderação ([Admins Guide](admin/ADMINS_GUIDE.md)) para entender o que fazemos nesta posição e como entrar em contato conosco.
+Leia o documento sobre a moderação ([Admins Guide](admin/docs/ADMINS_GUIDE.md)) para entender o que fazemos nesta posição e como entrar em contato conosco.
 
 Caso você sofra qualquer agressão ou perceba que alguém infringiu nosso código de conduta você pode alertar a moderação ou nos alertar através [deste formulário anônimo](https://trainingcenter2.typeform.com/to/P09LMl). - Tente escrever diferente do que escreve no Slack para que sua identidade continue anônima, pois não é interessante que ninguém saiba que foi você quem fez uma denúncia se ela veio anônima, nem mesmo a moderação.
 
