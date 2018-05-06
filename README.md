@@ -2,7 +2,9 @@
 
 > Informações gerais sobre o Training Center
 
-Esta comunidade **não possui meios de conseguir renda**, porém, você pode doar mensalmente para nosso grupo através do [apoia.se](http://apoia.se/training-center) e garantir a continuação do funcionamento das nossas ferramentas. ;P
+Todos os nossos projetos são **gratuitos**. Não aceite ajuda de alguém, em nossos canais de comunicação, que cobre por ajuda.
+
+Se você quiser contribuir com a confecção de adesivos, renovação do nosso domínio (trainingcenter.io), automação de processos (Zapier, TypeForm), encontros regionais (Meetup.com) e outros encargos da comunidade, pode nos apoiar no [apoia.se/training-center](http://apoia.se/training-center) e garantir a continuação do funcionamento das nossas ferramentas. ;P
 
 <p align="center">
  <a href="http://apoia.se/training-center" title="Apoia.se do Training Center">
@@ -13,12 +15,12 @@ Esta comunidade **não possui meios de conseguir renda**, porém, você pode doa
 ## Sumário
 
 - [O que é o Training Center](#o-que-%C3%A9-o-training-center)
+- [Como participar da nossa comunidade](#como-participar-da-nossa-comunidade)
 - [Codigo de conduta](#codigo-de-conduta)
   - [Como denunciar uma infração](#como-denunciar-uma-infra%C3%A7%C3%A3o)
   - [Responsabilidades da moderação e liderança](#responsabilidades-da-modera%C3%A7%C3%A3o-e-lideran%C3%A7a)
 - [Conhecendo mais sobre nossa comunidade](#conhecendo-mais-sobre-nossa-comunidade)
 - [Como funcionam nossas iniciativas](#como-funcionam-nossas-iniciativas)
-- [Como participar da comunidade](#como-participar-da-comunidade)
 - [Como contribuir com a comunidade](#como-contribuir-com-a-comunidade)
 - [Conheça quem nos apoia, nos divulga e pegue alguns cupons de desconto em cursos e livros](#conhe%C3%A7a-quem-nos-apoia-nos-divulga-e-pegue-alguns-cupons-de-desconto-em-cursos-e-livros)
 
@@ -26,17 +28,42 @@ Esta comunidade **não possui meios de conseguir renda**, porém, você pode doa
 
 ## O que é o Training Center
 
-O Training Center é uma comunidade de pessoas que trabalham na área de desenvolvimento de software (programação, design, bancos de dados etc.).
+O Training Center é uma comunidade de tecnologia focada em desenvolvimento de software para iniciantes em programação, design, segurança da informação, mobile, bancos de dados, etc. Tudo o que estiver envolvido com desenvolvimento de software.
 
-Um de nossos principais objetivos é unir pessoas que querem entrar na área de desenvolvimento de software com gente que tem experiência para compartilhar e que podem ajudar essas pessoas a aprender e conseguir seu primeiro emprego. Também ajudamos pessoas que já trabalham na área e buscam aprimoramento profissional a elevar seus níveis técnicos ou soft skills para irem mais longe.
+Entendemos como desenvolvimento de um software todas áreas relacionadas a criação de um produto digital, como design, back-end, front-end, mobile, IoT, agilidade, gerência etc.
 
-Entendemos como desenvolvimento de um software todas áreas relacionadas a criação de um produto digital, como design, back-end, front-end, mobile, IoT, agilidade, gerência etc..
+Todas as nossas propostas são gratuitas e as pessoas podem participar de qualquer lugar do mundo. Tentamos fazer o máximo de iniciativas online e open source.
 
-Nós, **como um grupo que pode fazer alguma diferença na sociedade**, abraçamos a responsabilidade de ajudar minorias buscando apoiar comunidades carentes, mulheres na tecnologia, pessoas negras, comunidade LGBTI+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
+Qualquer pessoa pode participar de nossa comunidade e iniciativas, independente do nível profissional. Acima de tudo, queremos ajudar as pessoas a evoluirem profissionalmente.
 
-[E estamos aqui da comunidade para a comunidade](https://woliveiras.com.br/posts/Devolva-para-as-comunidades/).
+Nosso objetivo é inserir pessoas na área de desenvolvimento através de apoio em foruns de discussão, mentoria, grupos de estudos, code review, exposição de perfis profissionais para as empresas e compartilhamento de conhecimento através de artigos e vídeos.
 
-Qualquer pessoa pode participar de nossa comunidade e iniciativas, independente do nível profissional. Acima de tudo, queremos te fazer evoluir.
+Também auxiliamos pessoas que já trabalham na área e buscam aprimoramento profissional a elevar seus níveis técnicos ou soft skills para irem mais longe. 
+
+Nós, como um grupo que pode fazer alguma diferença na sociedade, abraçamos a responsabilidade de ajudar minorias buscando apoiar comunidades carentes, mulheres na tecnologia, pessoas negras, comunidade LGBTQ+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
+
+## Como participar da nossa comunidade
+
+Você precisa estar de acordo com o nosso código de conduta, [leia nesse link](http://bit.ly/tc-conduct-code).
+
+Conheça nossos projetos lendo este documento até o final.
+
+Entre no nosso chat: http://bit.ly/slack-training-center
+
+Mas aprenda a se comportar lá, viu: http://bit.ly/comporte-se-no-slack
+
+Conheça nossos encontros presenciais regionais: http://bit.ly/tc-meetups
+
+Leia nossos artigos: http://bit.ly/tc-medium
+
+Inscreva-se em nosso canal no YouTube: http://bit.ly/TrainingCenterChannel
+
+Siga nosso Twitter: http://bit.ly/seguir-o-training-center
+
+Curta nossa página no Facebook: http://bit.ly/facebook-training-center
+
+Nos siga no LinkedIn: http://bit.ly/seguir-no-linkedin
+
 
 ## Codigo de conduta
 
@@ -89,31 +116,21 @@ Nossas iniciativas tem como objetivos:
 
 Capacitamos e motivamos pessoas através de artigos, vídeos, palestras, grupos de estudos, meetups e mentoria. Empoderamos as pessoas dando voz às minorias através de todas as nossas iniciativas. Nos colocamos próximos as pessoas para continuarmos apoiando seu desenvolvimento profissional através de nossos canais de comunicação, formando assim uma grande união.
 
-## Como participar da comunidade
-
-Nosso principal canal de comunicação é o Slack, uma ferramenta de chat com super poderes.
-
-Para entrar no nosso Slack você vai precisar entrar [neste link](https://ctgroups.herokuapp.com), adicionar seu endereço de email e aguardar o convite que chegará lá. O email é enviado automaticamente e, caso não chegue, abra uma issue neste repositório: [training-center/slack](https://github.com/training-center/slack).
-
-Assim que esse email chegar você vai acessar um link onde vai configurar uma senha e poderá entrar em nosso chat. O endereço para entrar no chat, depois desse passo, será sempre o mesmo que você acessou via link de confirmação (https://ctgroups.slack.com).
-
-Você também pode participar de maneira ativa de nosso forum, onde discutimos sobre carreira: [training-center/forum](https://github.com/training-center/forum).
-
 ## Como contribuir com a comunidade
 
 Existem diversos projetos para você contribuir, tenha você alguma experiência em desenvolvimento de software ou não. Dê uma olhada em todos os nossos projetos: [github/training-center](https://github.com/training-center).
 
-Você também pode interagir conosco nas redes sociais, pois isso ajuda com que cheguemos a mais pessoas que precisam conhecer nossos projetos.
+Você pode interagir conosco nas redes sociais, pois isso ajuda com que cheguemos a mais pessoas que precisam conhecer nossos projetos.
 
-- [Facebook](https://www.facebook.com/trainingcenterbr/)
-- [Twitter](https://twitter.com/trainingcentr)
-- [LinkedIn](https://www.linkedin.com/company/22312627/)
+- [Facebook](http://bit.ly/facebook-training-center)
+- [Twitter](http://bit.ly/seguir-o-training-center)
+- [LinkedIn](http://bit.ly/seguir-no-linkedin)
 
 Você também pode nos ajudar gerando conteúdo ou participando de nossos meetups:
 
-- [Medium (conteúdo em texto)](https://medium.com/trainingcenter)
-- [YouTube (conteúdo em vídeo)](https://www.youtube.com/c/TrainingCenterChannel)
-- [Meetups (encontros presenciais)](https://github.com/training-center/meetups)
+- [Medium (conteúdo em texto)](http://bit.ly/tc-medium)
+- [YouTube (conteúdo em vídeo)](http://bit.ly/TrainingCenterChannel)
+- [Meetups (encontros presenciais)](http://bit.ly/tc-meetups)
 
 O que mais precisamos em questão de **conteúdo** são artigos, vídeos e palestras tutoriais (como criar uma aplicação xyz, como criar uma tela (processo criativo e design) etc.).
 
