@@ -4,14 +4,6 @@
 
 Todos os nossos projetos são **gratuitos**. Não aceite ajuda de alguém, em nossos canais de comunicação, que cobre por ajuda.
 
-Se você quiser contribuir com a confecção de adesivos, renovação do nosso domínio (trainingcenter.io), automação de processos (Zapier, TypeForm), encontros regionais (Meetup.com) e outros encargos da comunidade, pode nos apoiar no [apoia.se/training-center](http://apoia.se/training-center) e garantir a continuação do funcionamento das nossas ferramentas. ;P
-
-<p align="center">
- <a href="http://apoia.se/training-center" title="Apoia.se do Training Center">
-  <img src="/assets/btn-apoiar.png" alt="botão de apoio ao Training Center">
- </a>
-</p>
-
 ## Sumário
 
 - [O que é o Training Center](#o-que-%C3%A9-o-training-center)
